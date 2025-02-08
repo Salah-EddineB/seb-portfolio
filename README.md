@@ -2,7 +2,7 @@
 
 Welcome to my portfolio! This project showcases my skills, experience, and projects using a fast and modern web stack with React and Vite.
 
-## 🚀 Live Demo
+## 🚀 Final Product
 
 Check out the live version of my portfolio here: [Salah Eddine B. Portfolio](https://comfy-cupcake-74e1b8.netlify.app/)
 
